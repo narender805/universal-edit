@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/vic-sandbox:/",
+    "/content/narender-test1/:/",
     "/content/aem-boilerplate/configuration:/.helix/config.json",
     "/content/aem-boilerplate/metadata:/metadata.json"
   ],
