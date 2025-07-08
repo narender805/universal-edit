@@ -1,10 +1,10 @@
 {
   "mappings": [
     "/content/narender-test1/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/narender-test1/configuration:/.helix/config.json",
+    "/content/narender-test1/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/narender-test1/"
   ]
 }
