@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/narender-tes/:/",
-    "/content/narender-test/configuration:/.helix/config.json",
-    "/content/narender-test/metadata:/metadata.json"
+    "/content/narender-test1/:/",
+    "/content/narender-test1/configuration:/.helix/config.json",
+    "/content/narender-test1/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/narender-test/"
+    "/content/narender-test1/"
   ]
 }
