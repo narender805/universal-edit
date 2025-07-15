@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p9606-e71941.adobeaemcloud.com/bin/franklin.delivery/narender805/universal-edit/main"
+    url: "https://localhost:4502//bin/franklin.delivery/narender805/universal-edit/main"
     type: "markup"
     suffix: ".html"
